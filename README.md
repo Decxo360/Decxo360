@@ -11,7 +11,6 @@ Actualmente me encuentro en búsqueda de empleo, si tienes algún proyecto donde
 
 Mucha suerte y espero que alguno de mis repositorios te sea de ayuda 
 
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
 
@@ -21,6 +20,8 @@ Mucha suerte y espero que alguno de mis repositorios te sea de ayuda
 </div>
 
 ###
+
+<h2>Las tecnologías en las que he desarrollado...</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -66,6 +67,8 @@ Mucha suerte y espero que alguno de mis repositorios te sea de ayuda
 
 ###
 
+<h2>Mis redes sociales</h2>
+
 <div align="left">
   <a href="https://www.youtube.com/@decxo360" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
@@ -79,14 +82,18 @@ Mucha suerte y espero que alguno de mis repositorios te sea de ayuda
   <a href="https://www.linkedin.com/in/diegolundstedt/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+  <a href="https://diegolundstedt.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" height="35" alt="Portfolio logo" />
+  </a>
 </div>
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://diegolundstedt.netlify.app/)
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Decxo360/Decxo360/output/snake.svg" alt="Snake animation" />
 
 ###
 
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
 
